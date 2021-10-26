@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void fibo(int *a, int *b);  // Declare function to calculate the next fibonaccai number
+void fibo(int *a, int *b);  // Declare function to calculate the next fibonacci number
 
 int main(void)
 {
@@ -36,10 +36,11 @@ int main(void)
 	printf("%d\n", n1);  // Print the last number without a comma for neatness
 }
 
-void fibo(int *a, int *b)  // Define the function to calcualte the next Fibonaccai number
+void fibo(int *a, int *b)  // Define the function to calcualte the next Fibonacci number
 {
 	int next;
-	next = *a + *b;
+	/* Calculate the next Fibonacci number using pointers instead of actual variables */
+	next = *a + *b; 
 	*a = *b;
 	*b = next;
 }
