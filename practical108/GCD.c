@@ -5,6 +5,7 @@
 int GCD_euclid(int a, int b);  // Declare function to calculate the greatest common divisor using the euclidean algorithm
 int GCD_recursive(int a, int b);  // Declare function to calculate the greatest common divisor using a recursive algorithm
 
+int func_depth_count=0;  // Define global variable to store the depth of the recursive function
 
 int main(void)
 {
@@ -18,6 +19,7 @@ int main(void)
 	/* Check a and b are positive */
 	if (a <= 0 || b <= 0)
 	{
+		printf("you entered: %i, %i", a, b);
 		printf("Try again, both numbers have to be positive integers\n");
 		return 1;
 	}
@@ -25,7 +27,8 @@ int main(void)
 
 	/* print the results of the algorithms to the screen */
 	printf("Using the Eculid Algo: GCD(%i, %i) = %i\n", a, b, GCD_euclid(a,b));
-	printf("Using the Recursive Algo: GCD(%i, %i) = %i\n", a, b, GCD_recursive(a, b));		  
+	printf("Using the Recursive Algo: GCD(%i, %i) = %i", a, b, GCD_recursive(a, b));		  
+	printf(" : Depth %i\n", func_depth_count);  // Print the depth of the recursive function
 
 	return 0;
 }
@@ -45,7 +48,8 @@ int GCD_euclid(int a, int b)  // Define the euclid function
 
 
 int GCD_recursive(int a, int b)  // Define the recursive function 
-{
+{	
+	func_depth_count++;  //increment the depth count
 	if (b == 0)
 		return a;
 	else
