@@ -55,7 +55,7 @@ int main(void)
                 _ = isMagicSquare(magicSquare, n);
         }
         t2 = clock();
-        printf("Elapsed: %lf\n", (((float) t2 - (float) t1) / (float) CLOCKS_PER_SEC)); // print the elapsed time to the screen in secs
+        printf("Time to run isMagicSquare 1 million times: %lfsec\n", (((float) t2 - (float) t1) / (float) CLOCKS_PER_SEC)); // print the elapsed time to the screen in secs
 
 	
 	/* Release the memory allocated for the magic square */
@@ -91,3 +91,9 @@ int getlines(char filename[MAX_FILE_NAME])
 	fclose(fp);
 	return count;
 }
+
+
+/* Comments
+ * isMagicSquare function is O(n*n)
+ */
+
