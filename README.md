@@ -29,3 +29,28 @@ We are looking for stepwise development by committing code (and comments) on a r
 NB: This repository should only be used for the practical sessions covered in the live demo sessions ONLY. Assignments 1 & 2 should not be added to the repo. If the regular assignments are uploaded to your repository then you will receive 0% for this assignment. Other assignments must be uploaded **separately** onto Brightspace or Blackboard.
 
 There are plentiful resources on git introductions, such as https://guides.github.com/introduction/git-handbook/ 
+
+
+# Scientific Programming Concepts ACM40660 Practicals 
+
+This repo contains the C code and compiled executables for the practicals 2 to 10 inclusive. 
+Each folder contains the files for each practical along with any auxiliary files needed to run the code.
+Each folder also contains a readme explaining what the code does and how to recompile the code.
+
+Practical 2: Conversion from int to float + float type representation
+
+Practical 3: Computing the area under the curve using the Trapezoid Rule
+
+Practical 4: Trapezoidal Rule using functions and arrays
+
+Practical 5: User Input Example + Fibonacci sequence using user input + Maclaurin series approximation
+
+Practical 6: Matrix Multiplication using function saved in seperate file + Example of using a Makefile 
+
+Practical 7: Dymanic memory allocation + using it to estimate 'e'
+
+Practical 8: Greatest common divisor using itterative and recursive functions
+
+Practical 9: Reading from a file + using external header functions: Magic Square
+
+Practical 10: Solving the tower of hanoi using a recursive function
