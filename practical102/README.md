@@ -7,7 +7,7 @@ The second, 'Sum.c', shows how the dynamic allocation of bits in a float type ca
 
 The compile and run the first program run;
 
-$ gcc -o Conversion_c Conversion.c
+$ gcc -o Conversion_c Conversion.c -lm
 
 $ ./Conversion_c
 
