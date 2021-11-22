@@ -16,4 +16,6 @@ The compile and run the second/third program run;
 
 $ make
 
+$ make clean
+
 $ ./mmc
