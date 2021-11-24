@@ -1,0 +1,179 @@
+commit 7a80aa8ed5c4d9c4d8e13d6eb5ffd90a3f7aaa46
+Author: conorrfoy <91533402+conorrfoy@users.noreply.github.com>
+Date:   Mon Nov 22 15:54:32 2021 +0000
+
+    Added clean up command for using makefile in practical 6 readme
+
+commit cc8fb46f90e9b8876b623e2bf0e9000aeac9d15d
+Author: conorrfoy <91533402+conorrfoy@users.noreply.github.com>
+Date:   Mon Nov 22 15:50:55 2021 +0000
+
+    Updated main readme to include description of what is contained in the repo and a list of what the practicals cover
+
+commit faa9e8dd9f8f2f247a988b9f9f3c110a72681dbb
+Author: conorrfoy <91533402+conorrfoy@users.noreply.github.com>
+Date:   Mon Nov 22 15:43:04 2021 +0000
+
+    Added readme for practical 10
+
+commit 4c71e0ad65d8efda015718365e28edd44565fb92
+Author: conorrfoy <91533402+conorrfoy@users.noreply.github.com>
+Date:   Mon Nov 22 15:40:31 2021 +0000
+
+    Added Readme for practical 9
+
+commit 5adef1ca2abaa4774c132031e81b05b25023d20b
+Author: conorrfoy <91533402+conorrfoy@users.noreply.github.com>
+Date:   Mon Nov 22 15:33:10 2021 +0000
+
+    Added Readme for practical 8
+
+commit d7ec2bc2d8cf5b69a3c400c0b18c6ba0c1930379
+Author: conorrfoy <91533402+conorrfoy@users.noreply.github.com>
+Date:   Mon Nov 22 15:29:46 2021 +0000
+
+    Added Readme for practical 7
+
+commit ce9d9a6d5fef599344fc1cad2562cc812b18f3f4
+Author: conorrfoy <91533402+conorrfoy@users.noreply.github.com>
+Date:   Mon Nov 22 13:23:36 2021 +0000
+
+    Added Readme for practical 6
+
+commit 80a3e932be604c399e31c89a14d6fb327d91f1a7
+Author: conorrfoy <91533402+conorrfoy@users.noreply.github.com>
+Date:   Mon Nov 22 13:01:02 2021 +0000
+
+    Added Readme for practical 5
+
+commit 9eb7414fbc2a4ff2f69a39f3684c99d62e1c5093
+Author: conorrfoy <91533402+conorrfoy@users.noreply.github.com>
+Date:   Mon Nov 22 12:44:52 2021 +0000
+
+    Added readme  for practical 4
+
+commit 00541f2540b7331292da9818256e54f399333f92
+Author: conorrfoy <91533402+conorrfoy@users.noreply.github.com>
+Date:   Mon Nov 22 12:17:22 2021 +0000
+
+    Added Readme for practical 3
+
+commit 7adc8e0923b68d4cc157785af84bd270e13e2e6f
+Author: conorrfoy <91533402+conorrfoy@users.noreply.github.com>
+Date:   Mon Nov 22 12:15:14 2021 +0000
+
+    Fixed missing include math library in compile instructions in readme
+
+commit ad26cb5f4775a31ec3e080ff64fac52be743e200
+Author: conorrfoy <91533402+conorrfoy@users.noreply.github.com>
+Date:   Mon Nov 22 12:00:26 2021 +0000
+
+    Updated readme layout
+
+commit 71f23a0e019096126268b3a45fecbcd28ce6f0c6
+Author: conorrfoy <91533402+conorrfoy@users.noreply.github.com>
+Date:   Mon Nov 22 11:59:42 2021 +0000
+
+    Create Readme for practical 2
+
+commit ab794c8b5ed0f0cd9051fd2887ada726bf041e1c
+Author: Conor Foy <conorrfoy@gmail.com>
+Date:   Sun Nov 21 21:51:06 2021 +0000
+
+    Added code for practical 10. Recursive function example, tower of Hanoi
+
+commit e3056329788fb2a92ae1b7c30a466267150b982a
+Author: Conor Foy <conorrfoy@gmail.com>
+Date:   Sun Nov 21 21:32:41 2021 +0000
+
+    Added print out for timing the isMagicSquare function
+
+commit ba2ecc7dd44839600bb0bfdaab0a35052bf9cd44
+Author: Conor Foy <conorrfoy@gmail.com>
+Date:   Sun Nov 21 21:16:04 2021 +0000
+
+    Added code for practical 9, magic square. Including versions to read input from user and from file
+
+commit a31a829ad3141a8bc61cc6128ae2b635ea4abe05
+Author: Conor Foy <conorrfoy@gmail.com>
+Date:   Tue Nov 9 11:14:17 2021 +0000
+
+    Added recursive function depth printout
+
+commit e33796fd3b98ce6e14fbc5c0b3e4a86f9b39c1f0
+Author: Conor Foy <conorrfoy@gmail.com>
+Date:   Tue Nov 9 11:13:08 2021 +0000
+
+    Added GCD code from practical 8
+
+commit 12773624a0d0c0e3ae33044ec5a3de5813324050
+Author: Conor Foy <conorrfoy@gmail.com>
+Date:   Tue Nov 2 16:27:39 2021 +0000
+
+    Added code from practical 7, Added program to estimate the value of e, Added program to demonstrate memory allocation
+
+commit ecac05db9627872d38a76ee5d4c1f0c848aaa689
+Author: Conor Foy <conorrfoy@gmail.com>
+Date:   Tue Oct 26 14:38:10 2021 +0100
+
+    Added practical 6 code to perform matrix multiplication all in one file and also using a function in a seperate file. Added Makefile to run the steps needed to compile the code in seperate files
+
+commit 3e6f16331afaa601bc0feb91ba829f12f8523ed9
+Author: Conor Foy <conorrfoy@gmail.com>
+Date:   Tue Oct 26 13:00:06 2021 +0100
+
+    Added more comments to Fibonacci.c, Added Arctan C code and excutable
+
+commit f1d46200c68165f0120d09647e42c8a2fe216616
+Author: Conor Foy <conorrfoy@gmail.com>
+Date:   Tue Oct 26 10:13:12 2021 +0100
+
+    Added first two excercises for practical 5, user input and Fibonaccai sequence
+
+commit 3d6a4119c2d406aceda7190e55f196bd1b990623
+Author: Conor Foy <conorrfoy@gmail.com>
+Date:   Tue Oct 12 11:56:19 2021 +0100
+
+    Added 3 versions of practial 4 - V1 mirrors the practical video - V2 is the most generial - V3 is done as the practical brief asked
+
+commit 357c24f113397e872b264dcd8d1d964105c20123
+Author: Conor Foy <conorrfoy@gmail.com>
+Date:   Tue Oct 5 22:11:01 2021 +0100
+
+    Added Ex from practical 3 - Trapezodial Rule
+
+commit e1da1512b02f38101330ebf1142cda89ada184cb
+Author: Conor Foy <conorrfoy@gmail.com>
+Date:   Tue Oct 5 10:39:35 2021 +0100
+
+    Added code for second half of practical 2 - Sum
+
+commit 7f3ebb4796875fbd58bf40d3023c1506a81eeec2
+Author: Conor Foy <conorrfoy@gmail.com>
+Date:   Tue Oct 5 10:19:21 2021 +0100
+
+    Test commmit from sciprog server
+
+commit 3199d0f828b6889bb96047e1809d26e778f3b936
+Author: Conor Foy <conorrfoy@gmail.com>
+Date:   Sun Oct 3 22:19:55 2021 +0100
+
+    Added code from Practical 2, Fixed error where binary string was reversed, Corrected numdigits calculation equation
+
+commit bba58bbcf7731617d0b60fa57fc48a1c054e2f08
+Author: cilwerner <59959532+cilwerner@users.noreply.github.com>
+Date:   Tue Sep 28 08:58:29 2021 +0100
+
+    Updated formatting errors
+
+commit 4a18ed3e12f84ae309605d2f7862ec60750dedaa
+Author: cilwerner <59959532+cilwerner@users.noreply.github.com>
+Date:   Tue Sep 28 08:57:59 2021 +0100
+
+    Filled README.md with full instructions
+
+commit 312a9b3083fa3e5de0bb35276d886acf9d385dfb
+Author: cilwerner <59959532+cilwerner@users.noreply.github.com>
+Date:   Mon Sep 27 11:59:24 2021 +0100
+
+    Initial commit
